@@ -1,0 +1,2 @@
+# todolist
+主要用一个简单的todolist，测试和熟悉GraphQL的查询和变更语法
